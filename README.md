@@ -1,4 +1,4 @@
 testgithub
 ==========
 
-global menu
+awesome when u understand . Working as a beginner !
